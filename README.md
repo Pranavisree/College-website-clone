@@ -43,6 +43,6 @@ Fully responsive and styled for a clean user experience.
 - images/ – All used images
 
 📸 Screenshot
+<img width="1512" alt="Screenshot 2025-05-23 at 9 14 24 PM" src="https://github.com/user-attachments/assets/42b844d2-86f6-434c-aec5-22a0da8f0147" />
 
-<img width="1512" alt="Screenshot 2025-05-23 at 9 12 51 PM" src="https://github.com/user-attachments/assets/7c84e42e-23e2-47f1-af9a-630a6f3f4d85" />
 
