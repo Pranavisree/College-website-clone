@@ -1,37 +1,40 @@
-# 🎓 College Website Clone
+# College Website Clone
 
-This is a front-end clone of a college website built using HTML, CSS, and JavaScript. The project mimics the layout and design elements commonly found in academic institution websites, such as navigation bars, image carousels, announcements, and footer sections.
+A responsive front-end clone of a college website built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Table of Contents
 
-- Responsive design for mobile and desktop views
-- Navigation bar with dropdown menus
-- Image slider/banner section
-- Cards for departments and quick links
-- Footer with contact info and social media icons
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## 🛠️ Built With
+## Demo
+
+![Screenshot](path-to-screenshot.png)
+
+## Features
+
+- Responsive design for various devices
+- Multiple pages including Admissions, AI Department, Cyber Security
+- Interactive elements with JavaScript
+
+## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
+## Installation
 
-📁 College-website-clone/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── README.md
-
-
-## 🧑‍💻 Getting Started
-
-To run this project locally:
-
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/Pranavisree/College-website-clone.git
+
 
 
 2. Navigate into the project folder:
