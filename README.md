@@ -1,45 +1,48 @@
 # College Website Clone
 
-A responsive front-end clone of a college website built using HTML, CSS, and JavaScript.
+A responsive front-end clone of a college website using **HTML**, **CSS**, and **JavaScript**.
 
-## Table of Contents
+## 🔍 Overview
 
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+This project replicates my college website with multiple pages including:
+- Home
+- Admissions
+- AI Department
+- Cyber Security Department
 
-## Demo
+Fully responsive and styled for a clean user experience.
 
-![Screenshot](path-to-screenshot.png)
-
-## Features
-
-- Responsive design for various devices
-- Multiple pages including Admissions, AI Department, Cyber Security
-- Interactive elements with JavaScript
-
-## Technologies Used
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Installation
+## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pranavisree/College-website-clone.git
 
 
+2. Open the project folder.
 
-2. Navigate into the project folder:
- cd College-website-clone
+3. Run index.html in your browser.
 
-3.Open index.html in your browser.
+📁 Files
+- index.html – Homepage
 
-No dependencies or server setup required.
+- admission.html – Admissions info
+
+- ai.html – AI department
+
+- btech_cyber_home.html – Cyber Security department
+
+- index.css – Main stylesheet
+
+- images/ – All used images
+
+📸 Screenshot
+
+<img width="1512" alt="Screenshot 2025-05-23 at 9 12 51 PM" src="https://github.com/user-attachments/assets/7c84e42e-23e2-47f1-af9a-630a6f3f4d85" />
+
