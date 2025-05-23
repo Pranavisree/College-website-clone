@@ -2,6 +2,14 @@
 
 A responsive front-end clone of a college website using **HTML**, **CSS**, and **JavaScript**.
 
+## Features
+
+- Responsive design for mobile and desktop views
+- Navigation bar with dropdown menus
+- Image slider/banner section
+- Cards for departments and quick links
+- Footer with contact info and social media ico
+
 ## 🔍 Overview
 
 This project replicates my college website with multiple pages including:
